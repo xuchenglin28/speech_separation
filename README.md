@@ -1,7 +1,5 @@
 # Constrained Permutation Invariant Training, Speech Separation
 
-Target Speaker Extraction and Verification for Multi-talker Speech
-
 Please cite:
 
  1. Chenglin Xu, Wei Rao, Xiong Xiao, Eng Siong Chng and Haizhou Li, "SINGLE CHANNEL SPEECH SEPARATION WITH CONSTRAINED UTTERANCE LEVEL PERMUTATION INVARIANT TRAINING USING GRID LSTM", in Proc. of ICASSP 2018, pp 6-10.
