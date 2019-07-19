@@ -27,3 +27,7 @@ python: 2.7
 Tensorflow: 1.12 (some API are older version, but compatiable by 1.12)
 
 Part of the code are adapted from https://github.com/snsun/pit-speech-separation
+
+## Contact:
+
+email: xuchenglin28@gmail.com
