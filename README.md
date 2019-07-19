@@ -20,7 +20,7 @@ The run.sh script includes feature extraction, modeling training and run-time in
 
 run.sh
 
-Environments:
+## Environments:
 
 python: 2.7
 
