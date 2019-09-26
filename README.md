@@ -31,3 +31,7 @@ Part of the code are adapted from https://github.com/snsun/pit-speech-separation
 ## Contact:
 
 email: xuchenglin28@gmail.com
+
+## Licence
+
+The code and models in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please contact: Chenglin Xu (xuchenglin28@gmail.com)
