@@ -34,4 +34,23 @@ email: xuchenglin28@gmail.com
 
 ## Licence
 
-The code and models in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please contact: Chenglin Xu (xuchenglin28@gmail.com)
+The code and models in this repository are licensed under the GNU General Public License Version 3.
+
+## Citation
+If you would like to cite, use this :
+```BibTex
+@inproceedings{xu2018single,
+  title={Single channel speech separation with constrained utterance level permutation invariant training using grid lstm},
+  author={Xu, Chenglin and Rao, Wei and Xiao, Xiong and Chng, Eng Siong and Li, Haizhou},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6--10},
+  year={2018}
+}
+@inproceedings{xu2018shifted,
+  title={A Shifted Delta Coefficient Objective for Monaural Speech Separation Using Multi-task Learning.},
+  author={Xu, Chenglin and Rao, Wei and Chng, Eng Siong and Li, Haizhou},
+  booktitle={Proc. of INTERSPEECH},
+  pages={3479--3483},
+  year={2018}
+}
+```
